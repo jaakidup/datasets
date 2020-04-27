@@ -1,0 +1,47 @@
+[
+    {
+      "_id": "5ea6bf4df8d6889f15ccdb09",
+      "index": 0,
+      "guid": "8893756a-7f16-4419-a8a7-d2b37745db82",
+      "isActive": false,
+      "balance": "$2,092.68",
+      "picture": "http://placehold.it/32x32",
+      "age": 39,
+      "eyeColor": "brown",
+      "name": "Joyce Kramer",
+      "gender": "female",
+      "company": "STROZEN",
+      "email": "joycekramer@strozen.com",
+      "phone": "+1 (956) 498-2858",
+      "address": "817 Lawn Court, Kimmell, Missouri, 477",
+      "about": "Ullamco culpa ex aute veniam. Proident ipsum nostrud ad dolor labore non eu ut labore elit incididunt ex excepteur anim. Sunt eiusmod magna pariatur aute ullamco sunt esse nostrud occaecat.\r\n",
+      "registered": "2014-12-10T12:47:05 -02:00",
+      "latitude": -72.300972,
+      "longitude": 82.644961,
+      "tags": [
+        "cupidatat",
+        "non",
+        "id",
+        "commodo",
+        "ullamco",
+        "Lorem",
+        "dolore"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Deena Weiss"
+        },
+        {
+          "id": 1,
+          "name": "Gertrude Paul"
+        },
+        {
+          "id": 2,
+          "name": "Sophia Case"
+        }
+      ],
+      "greeting": "Hello, Joyce Kramer! You have 9 unread messages.",
+      "favoriteFruit": "apple"
+    }
+  ]
